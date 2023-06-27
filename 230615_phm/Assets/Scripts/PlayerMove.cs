@@ -46,3 +46,6 @@ public class PlayerMove : MonoBehaviour
         step = 2;
     }
 }
+
+
+
